@@ -1,0 +1,48 @@
+{
+  "public/images/complaint.png": {
+    "file": "assets/complaint-CDFiJG7h.png",
+    "src": "public/images/complaint.png"
+  },
+  "public/images/hero.jpg": {
+    "file": "assets/hero-DTO12yY8.jpg",
+    "src": "public/images/hero.jpg"
+  },
+  "public/images/posts.png": {
+    "file": "assets/posts-CtC4OXzF.png",
+    "src": "public/images/posts.png"
+  },
+  "public/images/profile.png": {
+    "file": "assets/profile-xaOWei-r.png",
+    "src": "public/images/profile.png"
+  },
+  "public/images/resource.png": {
+    "file": "assets/resource-B6mhLl-T.png",
+    "src": "public/images/resource.png"
+  },
+  "public/images/sharing.png": {
+    "file": "assets/sharing-D7FhZcnk.png",
+    "src": "public/images/sharing.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-C0bpog_V.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-C0cv8n-Q.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-Co6R7Cq9.css"
+    ],
+    "assets": [
+      "assets/hero-DTO12yY8.jpg",
+      "assets/sharing-D7FhZcnk.png",
+      "assets/posts-CtC4OXzF.png",
+      "assets/complaint-CDFiJG7h.png",
+      "assets/resource-B6mhLl-T.png",
+      "assets/profile-xaOWei-r.png"
+    ]
+  }
+}
